@@ -1,0 +1,19 @@
+navbar {
+    width: 100%;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.wrapper ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.wrapper ul li {
+    margin: 0 20px;
+}

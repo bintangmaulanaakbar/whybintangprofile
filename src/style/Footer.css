@@ -1,0 +1,11 @@
+footer {
+    width: 100%;
+    padding: 20px;
+    margin-top: 5px;
+    background-color: var(--darkness);
+    text-align: center;
+}
+
+footer .description {
+    font-size: .8em;
+}

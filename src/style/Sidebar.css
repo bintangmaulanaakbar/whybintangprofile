@@ -1,0 +1,30 @@
+.panel {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.card {
+    width: 25%;
+    height: auto;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: var(--darkness);
+}
+
+.card img {
+    width: 30%;
+}
+
+.sidebar-card {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    padding: 0 15px;
+}
+
+.sidebar-card .description {
+    margin-left: 10px;
+}
